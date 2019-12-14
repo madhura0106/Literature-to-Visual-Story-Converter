@@ -1,0 +1,22 @@
+image_id	captions
+HT1.png	<start> Once, a hare saw a tortoise walking slowly with a heavy shell on his back. <end>
+HT2.jpg	<start> The tortoise agreed. <end>
+HT3.jpg	<start> They started the running race. <end>
+HT4.jpg	<start> The hare ran very fast. <end>
+HT5.jpg	<start> The proud hair rested under a tree and soon slept off. <end>
+HT6.jpg	<start> At last, the tortoise won the race. <end>
+TC1.png	<start> One hot day, a thirsty crow flew all over the fields looking for  <end>
+TC2.jpg	<start> For a long time, he could not find any. <end>
+TC3.jpg	<start> Suddenly, he saw a water jug below the tree. <end>
+TC4.jpg	<start> Sadly, he found that the neck of the jug was too narrow. <end>
+TC5.jpg	<start> He suddenly had a good idea. <end>
+TC6.png	<start> He started picking up the pebbles one by one, dropping each into the jug. <end>
+TC7.jpg	<start> As more and more pebbles filled the jug, the water level kept rising. <end>
+TC8.jpg	<start> Soon it was high enough for the crew to drink. <end>
+TC9.png	<start> His plan had worked! <end>
+LM1.jpg	<start> A lion was sleeping in a forest. <end>
+LM2.jpg	<start> It caught up the mouse angrily and tried to crush it to death. <end>
+LM3.jpg	<start> Then the mouse prayed the lion to leave him off and assured that it would help him when it needed. <end>
+LM4.jpg	<start> One day the lion was caught in a net spread by a hunter. <end>
+LM5.jpg	<start> It started cutting the net with its teeth. <end>
+LM6.jpg	<start> The lion escaped and thanked the mouse. <end>

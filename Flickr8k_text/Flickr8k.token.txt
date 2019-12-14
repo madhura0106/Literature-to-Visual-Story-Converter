@@ -1,0 +1,27 @@
+HT1.png#0	Once, a hare saw a tortoise walking slowly with a heavy shell on his back.
+HT2.jpg#0	The tortoise agreed.
+HT3.jpg#0	They started the running race.
+HT4.jpg#0	The hare ran very fast.
+HT5.jpg#0	The proud hair rested under a tree and soon slept off.
+HT6.jpg#0	At last, the tortoise won the race.
+TC1.png#0	One hot day, a thirsty crow flew all over the fields looking for 
+TC2.jpg#0	For a long time, he could not find any.
+TC3.jpg#0	Suddenly, he saw a water jug below the tree.
+TC4.jpg#0	Sadly, he found that the neck of the jug was too narrow.
+TC5.jpg#0	He suddenly had a good idea.
+TC6.png#0	He started picking up the pebbles one by one, dropping each into the jug.
+TC7.jpg#0	As more and more pebbles filled the jug, the water level kept rising.
+TC8.jpg#0	Soon it was high enough for the crew to drink.
+TC9.png#0	His plan had worked!
+LM1.jpg#0	A lion was sleeping in a forest.
+LM2.jpg#0	It caught up the mouse angrily and tried to crush it to death.
+LM3.jpg#0	Then the mouse prayed the lion to leave him off and assured that it would help him when it needed.
+LM4.jpg#0	One day the lion was caught in a net spread by a hunter.
+LM5.jpg#0	It started cutting the net with its teeth.
+LM6.jpg#0	The lion escaped and thanked the mouse.
+Goose_and_the_Golden_egg_6.jpg#0	Once upon a time, a man and his wife had the good fortune to have a goose which laid a golden egg every day.
+Goose_and_the_Golden_egg_9.jpg#0	Lucky though they were, they soon began to think they were not getting rich fast enough.
+Goose_and_the_Golden_egg_20.jpg#0	They imagined that if the bird is able to lay golden eggs, its insides must be made of gold.
+Goose_and_the_Golden_egg_21.jpg#0	So the man and his wife decided to kill the bird.
+Goose_and_the_Golden_egg_54.jpg#0	However, upon cutting the goose open, they were shocked to find that its innards were like that of any other goose!
+

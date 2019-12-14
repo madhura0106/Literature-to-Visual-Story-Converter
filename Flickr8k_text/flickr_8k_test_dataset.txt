@@ -1,0 +1,7 @@
+image_id	captions
+HT1.png	<start> Once, a hare saw a tortoise walking slowly with a heavy shell on his back. <end>
+HT2.jpg	<start> The tortoise agreed. <end>
+HT3.jpg	<start> They started the running race. <end>
+HT4.jpg	<start> The hare ran very fast. <end>
+HT5.jpg	<start> The proud hair rested under a tree and soon slept off. <end>
+HT6.jpg	<start> At last, the tortoise won the race. <end>
